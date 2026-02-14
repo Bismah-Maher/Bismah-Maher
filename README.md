@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m Bismah Maher, a motivated developer who loves turning ideas into real projects.<br>I enjoy working with languages/tools, learning new skills, and improving through practice.<br>My goal is to become a better developer and contribute to meaningful projects.
+I’m Bismah Maher, a motivated developer who loves turning ideas into real projects.<br>I enjoy working with languages/tools, learning new skills, and improving through practice.<br>My goal is to become a better developer and contribute to meaningful projects.
 
 
 ## 🌐 Socials:
